@@ -2,7 +2,7 @@
 ### By Rajesh Hugar
 
 ---
-![](983.jpg)
+![](Movie_Recommender_System.png)
 ---
 
 
